@@ -1,2 +1,5 @@
 # DICE_GAME
-HIGHER DICE WINDS THE GAME
+
+RULES OF THE GAME:
+1) Higher dice wins the game
+
